@@ -1,3 +1,3 @@
 # social-media-hoveranimation
 
-click here
+click here  https://theamritsapkota.github.io/social-media-hoveranimation/
